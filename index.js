@@ -1,9 +1,15 @@
-const inputEl = document.getElementById("input-el")
+// const inputEl = document.getElementById("input-el")
 
-const submitBtn = document.getElementById("submit-btn")
+// const submitBtn = document.getElementById("submit-btn")
 
 
 
-submitBtn.addEventListener("click", function() {
-    console.log("buttons been clicked")
-})
+// submitBtn.addEventListener("click", function() {
+//     console.log("buttons been clicked")
+// })
+
+
+
+
+
+
